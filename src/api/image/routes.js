@@ -14,7 +14,6 @@ const routes = (handler) => [
           options : {
               auth : 'image'
           }
-      }
-      
+      }   
 ]
 module.exports = routes
