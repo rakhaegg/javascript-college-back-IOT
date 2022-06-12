@@ -74,7 +74,7 @@ const init = async () => {
                 validator : ImageValidator
             }
         },
-        {
+           {
             plugin: authentications,
             options: {
                 authenticationsService,
